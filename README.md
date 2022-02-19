@@ -1,5 +1,5 @@
 - 👋 Hi, My name is Shahid
-- 👀 I’m interested in learning Languages
+- 👀 I’m interested in Programming learning Languages
 - 🌱 I’m currently learning Phython
 - 💞️ I’m looking to collaborate with other content creaters
 - 📫 How to reach me ...
